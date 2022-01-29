@@ -1,0 +1,4 @@
+.vscode/*
+source/*.exe
+model/LightSaber
+model/StarTreckPhaser

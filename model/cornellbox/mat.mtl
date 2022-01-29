@@ -1,0 +1,17 @@
+newmtl floor
+	Kd 0.725 0.71 0.68
+
+newmtl left
+    Kd 0.63 0.065 0.05
+
+newmtl light
+    Kd 0.65 0.65 0.65
+
+newmtl right
+    Kd 0.14 0.45 0.091
+
+newmtl shortbox
+    Kd 0.725 0.71 0.68
+
+newmtl tallbox
+    Kd 0.725 0.71 0.68
